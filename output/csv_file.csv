@@ -1,1 +1,3 @@
-
+Prompt_id,Prompt,manual_seed,strength,guidance_scale,file_name,ref_img,ref_url
+20221014102029,"a cute anime girl as cyberpunk soldier, battle suit, detailed face, portrait by Krenz Cushart, Ilya Kuvshinov, wlop, Tony Taka, concept art, 2d anime in flat fluorescent colors, full head",165344435,0.6,6,/content/Assets/output/20221014102029-165344435-0.6-6.png,/content/Assets/testing/me3.jpg,0
+20221014102145,"a cute anime girl as cyberpunk soldier, battle suit, detailed face, portrait by Krenz Cushart, Ilya Kuvshinov, wlop, Tony Taka, concept art, 2d anime in flat fluorescent colors, full head",165344436,0.6,6,/content/Assets/output/20221014102145-165344436-0.6-6.png,/content/Assets/testing/me3.jpg,0
